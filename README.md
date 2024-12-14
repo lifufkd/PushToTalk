@@ -26,11 +26,11 @@
 
 ## Установка
 1. Установите зависимости:
-   pip install pycaw pynput comtypes
+    - pip install pycaw pynput comtypes
 2. Скачайте или клонируйте репозиторий:
-   git clone https://github.com/yourusername/PushToTalk.git
+    - git clone https://github.com/yourusername/PushToTalk.git
 3. Запустите скрипт:
-   python PushToTalk.py
+    - python PushToTalk.py или кликните по run.bat
 
 ## Настройка
 - Вы можете изменить горячую клавишу, задав значение переменной hot_key в коде. Например:
